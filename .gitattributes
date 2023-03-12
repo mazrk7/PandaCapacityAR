@@ -2,3 +2,4 @@ Packages/com.unity.robotics.ros-tcp-connector/** filter=lfs diff=lfs merge=lfs -
 Packages/com.unity.robotics.urdf-importer/** filter=lfs diff=lfs merge=lfs -text
 Packages/com.unity.robotics.visualizations/** filter=lfs diff=lfs merge=lfs -text
 Assets/URDF/** filter=lfs diff=lfs merge=lfs -text
+Packages/MixedReality/** filter=lfs diff=lfs merge=lfs -text
